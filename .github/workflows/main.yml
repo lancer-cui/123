@@ -27,6 +27,6 @@ jobs:
       APP_SECRET: ${{ secrets.3019052dfd626290179258362be717b6 }}
       TEMPLATE_ID: ${{ secrets.iu2_tddUZDBtaubD8G8MMWSZVI8FKbXHMrGCxTVjDwQ }}
       USER_ID: ${{ secrets.odMdc5vL3go9y7CAZxeV1XfRJDz4 }}
-      START_DATE: ${{ secrets.2021-12-04 }}
-      BIRTHDAY: ${{ secrets.12-02 }}
-      CITY: ${{ secrets.NANJING }}
+      START_DATE: ${{ secrets.START_DATE }}
+      BIRTHDAY: ${{ secrets.BIRTHDAY }}
+      CITY: ${{ secrets.CITY }}
